@@ -40,12 +40,12 @@ var SampleLibComponent = /** @class */ (function () {
      * @return {?}
      */
     function () {
-        return 'Just some text';
+        return 'Just some text v1.0.1';
     };
     SampleLibComponent.decorators = [
         { type: Component, args: [{
                     selector: 'lib-sample-lib',
-                    template: "\n    <p>\n      sample-lib works!\n    </p>\n  "
+                    template: "\n    <p>\n      sample-lib works updated to 1.0.1!\n    </p>\n  "
                 }] }
     ];
     /** @nocollapse */

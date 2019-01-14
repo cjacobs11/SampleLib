@@ -31,7 +31,7 @@ class SampleLibComponent {
      * @return {?}
      */
     getText() {
-        return 'Just some text';
+        return 'Just some text v1.0.1';
     }
 }
 SampleLibComponent.decorators = [
@@ -39,7 +39,7 @@ SampleLibComponent.decorators = [
                 selector: 'lib-sample-lib',
                 template: `
     <p>
-      sample-lib works!
+      sample-lib works updated to 1.0.1!
     </p>
   `
             }] }
